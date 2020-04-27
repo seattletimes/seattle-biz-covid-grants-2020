@@ -1,0 +1,22 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "demonstrative-canvass"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2020/local/coronavirus-business-loans"
+    }
+  },
+  "title": "",
+  "description": "",
+  "author": "",
+  "url": "",
+  "post_id": 0,
+  "image": "assets/social.jpg",
+  "sheets": ["15mZD5vBWCcpYU23HZ0c6p7lGcMDUHxnShJQ8PO2zUzE"],
+  "docs": [],
+  "embedded": true,
+  "production": false
+}
